@@ -3,6 +3,16 @@
   "displayName": "Teal Ember Theme",
   "description": "",
   "version": "0.0.1",
+  "publisher": "GoldenTeal",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#008169ff",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onkanya/teal-ember-theme-vscode.git"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
