@@ -43,7 +43,8 @@
 		"textLink.foreground": "#f29c14ff",
 		"textLink.activeForeground": "#10a793ff",
 		"editorLink.activeForeground": "#fef1b7ff",
-		"editor.wordHighlightBackground": "#2a2f39ff",
+		"editor.wordHighlightBackground": "#64646d66",
+		"editor.selectionHighlightBackground": "#958334ff"
 	},
 	"tokenColors": [
 		{
